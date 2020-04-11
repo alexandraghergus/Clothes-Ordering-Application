@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Magazzino</string>
+    <string name="password">Password</string>
+    <string name="login_now">Login Now</string>
+    <string name="email_address">Email address</string>
+    <string name="don_t_remember_your_password">Don\'t remember your password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="connect_with_facebook">Connect with facebook</string>
+    <string name="or">or</string>
+    <string name="logo">logo</string>
+    <string name="textview">TextView</string>
+    <string name="creata_an_accont">Creata an Accont</string>
+    <string name="creata_an_account">Creata an Account</string>
+    <string name="select_an_username">Select an username</string>
+    <string name="sign_up">Sign up</string>
+    <string name="do_you_have_an_account">Do you have an account?</string>
+    <string name="login">Login</string>
+    <string name="sign_up1">Sign up</string>
+    <string name="logo1">logo</string>
+    <string name="first_name">First Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="second_name">Second Name</string>
+</resources>
